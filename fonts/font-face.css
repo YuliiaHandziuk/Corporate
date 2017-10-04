@@ -1,0 +1,19 @@
+@font-face {
+	font-family: Exo-Thin;
+	src:url(../fonts/exo/Exo-Thin.otf);
+}
+
+@font-face {
+	font-family: Exo-Regular;
+	src:url(../fonts/exo/Exo-Regular.otf);
+}
+
+@font-face {
+	font-family: Exo-Medium;
+	src:url(../fonts/exo/Exo-Medium.otf);
+}
+
+@font-face {
+	font-family: Exo-Italic;
+	src:url(../fonts/exo/Exo-Italic.otf);
+}
